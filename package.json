@@ -1,0 +1,27 @@
+{
+  "name": "votechain",
+  "version": "1.0.0",
+  "description": "**VoteChain** is blockchain based Electronic Voting System.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "make": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maasoomraj/Microsoft_2k19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maasoomraj/Microsoft_2k19/issues"
+  },
+  "homepage": "https://github.com/maasoomraj/Microsoft_2k19#readme"
+}
