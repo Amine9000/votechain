@@ -1,0 +1,115 @@
+[2025-01-29 18:53:43] INFO: Home route accessed
+[2025-01-29 18:57:40] INFO: Candidate Created - Name: hamza, Party: hhi, Constituency: 1235, Candidate ID: 11
+[2025-01-29 19:07:58] INFO: Candidate Created - Name: Youssef, Party: afg, Constituency: 1236, Candidate ID: 12
+[2025-01-29 19:13:08] INFO: Candidate Created - Name: jio, Party: bnhj, Constituency: 12367, Candidate ID: 13
+[2025-01-29 19:17:32] INFO: Candidate Created - Name: sdo, Party: yuj, Constituency: 1238, Candidate ID: 14
+[2025-01-29 19:18:30] INFO: Candidate Created - Name: Possimus impedit n, Party: Quisquam excepteur m, Constituency: 1239, Candidate ID: 15
+[2025-01-29 19:19:49] INFO: Candidate Created - Name: Possimus impedit n, Party: Quisquam excepteur m, Constituency: 1239, Candidate ID: 16
+[2025-01-29 19:20:42] INFO: Candidate Created - Name: Possimus impedit n, Party: Quisquam excepteur m, Constituency: 1239, Candidate ID: 17
+[2025-01-29 19:20:44] INFO: Candidate Transaction - ID: 17, Tx Hash: 0x98db5f8905337cd9fd968f50e03e287f703d170cbecc8e75a35207ef56aede89, Block Number: 12, Gas Used: 309543
+[2025-01-29 19:55:35] INFO: Voter Transaction - ID: 20, Tx Hash: 0xe10382fb5cfdc3b15ba671f6d42e6469a9bd0f8dedbb3a6fa6eb23db5f6f7436, Block Number: 14, Gas Used: 148526
+[2025-01-29 19:59:00] INFO: Voter Registered - Name: rta, Aadhar: 789, Constituency: 1234, Voter ID: 21, Verified: false, Has Voted: false
+[2025-01-29 19:59:03] INFO: Voter Transaction - ID: 21, Tx Hash: 0x75b7e741274e67de6f7e052be415a939dc80a4f217a0143b78efc31544d78c2b, Block Number: 15, Gas Used: 148526
+[2025-01-29 20:00:45] INFO: Retrieved 8 candidates.
+[2025-01-29 20:07:52] INFO: Retrieved 3 voters.
+[2025-01-29 20:11:53] ERROR: Error creating voter:
+[2025-01-29 20:13:46] ERROR: Error creating voter: E11000 duplicate key error collection: votechaindb.voters index: aadhar_1 dup key: { aadhar: "789" }
+[2025-01-29 20:15:07] INFO: Retrieved 8 candidates.
+[2025-01-29 20:15:19] INFO: Retrieved 8 candidates.
+[2025-01-29 20:15:22] INFO: Retrieved 3 voters.
+[2025-02-03 17:51:16] INFO: Candidate Created - Name: Amine, Party: bbd, Constituency: 1234, Candidate ID: 18
+[2025-02-03 17:51:25] INFO: Retrieved 9 candidates.
+[2025-02-03 17:52:34] INFO: Retrieved 9 candidates.
+[2025-02-03 17:52:57] ERROR: Error creating voter: E11000 duplicate key error collection: votechaindb.voters index: aadhar_1 dup key: { aadhar: "789" }
+[2025-02-03 17:53:04] ERROR: Error creating voter: E11000 duplicate key error collection: votechaindb.voters index: aadhar_1 dup key: { aadhar: "789" }
+[2025-02-03 17:53:28] INFO: Voter Registered - Name: jhon, Aadhar: 789896, Constituency: 1234, Voter ID: 30, Verified: false, Has Voted: false
+[2025-02-03 17:53:38] INFO: Retrieved 9 candidates.
+[2025-02-03 17:53:55] INFO: Retrieved 9 candidates.
+[2025-02-03 17:54:00] INFO: Retrieved 4 voters.
+[2025-02-03 17:54:07] INFO: Retrieved 4 voters.
+[2025-02-03 17:54:26] INFO: Retrieved 4 voters.
+[2025-02-03 17:54:28] INFO: Retrieved 9 candidates.
+[2025-02-03 17:54:31] INFO: Retrieved 4 voters.
+[2025-02-03 17:54:54] INFO: Retrieved 4 voters.
+[2025-02-03 17:54:59] INFO: Retrieved 9 candidates.
+[2025-02-03 17:55:17] INFO: Retrieved 4 voters.
+[2025-02-03 17:55:32] INFO: Retrieved 4 voters.
+[2025-02-03 17:55:51] INFO: Retrieved 4 voters.
+[2025-02-03 17:56:12] INFO: Retrieved 9 candidates.
+[2025-02-03 17:56:22] INFO: Retrieved 9 candidates.
+[2025-02-03 17:56:33] INFO: Retrieved 4 voters.
+[2025-02-03 17:56:36] INFO: Retrieved 9 candidates.
+[2025-02-03 17:56:51] INFO: Retrieved 9 candidates.
+[2025-02-03 17:56:53] INFO: Retrieved 4 voters.
+[2025-02-03 17:57:09] INFO: Retrieved 4 voters.
+[2025-02-03 17:57:21] INFO: Voter Registered - Name: ddy, Aadhar: 7854632, Constituency: 1234, Voter ID: 31, Verified: false, Has Voted: false
+[2025-02-03 17:57:31] INFO: Retrieved 9 candidates.
+[2025-02-03 17:58:08] INFO: Retrieved 5 voters.
+[2025-02-03 17:58:11] INFO: Retrieved 9 candidates.
+[2025-02-03 17:59:38] INFO: Retrieved 9 candidates.
+[2025-02-03 17:59:53] INFO: Retrieved 9 candidates.
+[2025-02-03 18:00:31] INFO: Retrieved 9 candidates.
+[2025-02-03 18:00:34] INFO: Retrieved 9 candidates.
+[2025-02-03 18:03:00] INFO: Retrieved 9 candidates.
+[2025-02-03 18:04:44] INFO: Voter Registered - Name: Hamza, Aadhar: 78, Constituency: 1234, Voter ID: 32, Verified: false, Has Voted: false
+[2025-02-03 18:05:10] INFO: Retrieved 9 candidates.
+[2025-02-03 18:05:23] INFO: Retrieved 9 candidates.
+[2025-02-03 18:05:26] INFO: Retrieved 6 voters.
+[2025-02-03 18:05:41] INFO: Retrieved 9 candidates.
+[2025-02-03 18:07:34] INFO: Retrieved 6 voters.
+[2025-02-03 18:07:54] INFO: Voter Registered - Name: Amine, Aadhar: 7892245, Constituency: 1234, Voter ID: 33, Verified: false, Has Voted: false
+[2025-02-03 18:07:59] INFO: Voter Transaction - ID: 33, Tx Hash: 0x3890a3549a11a5393a0d7bf1a05f6a4bdcfe8b0292eaec52e87d17616897cc19, Block Number: 5, Gas Used: 182726
+[2025-02-03 18:08:01] INFO: Retrieved 7 voters.
+[2025-02-03 18:08:24] INFO: Retrieved 9 candidates.
+[2025-02-03 18:08:32] INFO: Retrieved 7 voters.
+[2025-02-03 18:08:44] INFO: Retrieved 7 voters.
+[2025-02-03 18:08:46] INFO: Retrieved 9 candidates.
+[2025-02-03 18:09:23] INFO: Retrieved 9 candidates.
+[2025-02-03 18:09:42] INFO: Retrieved 9 candidates.
+[2025-02-03 18:10:48] INFO: Retrieved 7 voters.
+[2025-02-03 21:35:36] INFO: Retrieved 9 candidates.
+[2025-02-03 21:35:39] INFO: Retrieved 7 voters.
+[2025-02-03 21:37:23] INFO: Retrieved 7 voters.
+[2025-02-03 21:37:27] INFO: Retrieved 9 candidates.
+[2025-02-03 21:37:32] INFO: Retrieved 7 voters.
+[2025-02-03 21:38:43] INFO: Retrieved 7 voters.
+[2025-02-03 21:38:45] INFO: Retrieved 9 candidates.
+[2025-02-03 21:38:49] INFO: Retrieved 7 voters.
+[2025-02-03 21:40:39] INFO: Retrieved 7 voters.
+[2025-02-03 21:48:02] INFO: Retrieved 7 voters.
+[2025-02-03 21:48:07] INFO: Retrieved 7 voters.
+[2025-02-03 21:51:00] INFO: Retrieved 7 voters.
+[2025-02-03 21:52:02] INFO: Retrieved 7 voters.
+[2025-02-03 21:53:06] INFO: Retrieved 7 voters.
+[2025-02-05 18:57:19] INFO: Retrieved 0 candidates.
+[2025-02-05 19:09:04] INFO: Retrieved 0 candidates.
+[2025-02-05 19:10:04] INFO: Retrieved 0 candidates.
+[2025-02-05 19:10:22] INFO: Voter Registered - Name: Amine, Aadhar: 785469, Constituency: 1234, Voter ID: 34, Verified: false, Has Voted: false
+[2025-02-05 19:10:51] INFO: Candidate Created - Name: Amine, Party: bbd, Constituency: 1234, Candidate ID: 19
+[2025-02-05 19:11:17] INFO: Candidate Created - Name: otmane, Party: hdf, Constituency: 1234, Candidate ID: 20
+[2025-02-05 19:11:25] INFO: Retrieved 1 voters.
+[2025-02-05 19:11:38] INFO: Retrieved 2 candidates.
+[2025-02-05 19:12:08] INFO: Retrieved 2 candidates.
+[2025-02-05 19:12:30] INFO: Retrieved 2 candidates.
+[2025-02-05 19:12:53] INFO: Retrieved 2 candidates.
+[2025-02-05 19:14:22] INFO: Retrieved 2 candidates.
+[2025-02-05 19:14:35] INFO: Retrieved 2 candidates.
+[2025-02-05 19:16:36] INFO: Retrieved 2 candidates.
+[2025-02-05 21:48:37] INFO: Retrieved 2 candidates.
+[2025-02-05 21:56:58] INFO: Retrieved 2 candidates.
+[2025-02-05 21:57:09] INFO: Retrieved 2 candidates.
+[2025-02-05 21:57:44] INFO: Retrieved 2 candidates.
+[2025-02-05 21:58:32] INFO: Candidate Created - Name: anas, Party: bbd, Constituency: 1235, Candidate ID: 21
+[2025-02-05 21:58:59] INFO: Retrieved 1 voters.
+[2025-02-05 21:59:30] INFO: Voter Registered - Name: Hamza, Aadhar: 458967, Constituency: 1234, Voter ID: 35, Verified: false, Has Voted: false
+[2025-02-05 21:59:57] INFO: Retrieved 3 candidates.
+[2025-02-05 22:00:00] INFO: Retrieved 2 voters.
+[2025-02-05 22:00:15] INFO: Retrieved 2 voters.
+[2025-02-05 22:00:28] INFO: Retrieved 3 candidates.
+[2025-02-05 22:00:31] INFO: Retrieved 3 candidates.
+[2025-02-05 22:01:31] INFO: Retrieved 3 candidates.
+[2025-02-05 22:01:48] INFO: Retrieved 3 candidates.
+[2025-02-05 22:02:27] INFO: Retrieved 3 candidates.
+[2025-02-05 22:02:44] INFO: Retrieved 3 candidates.
+[2025-02-05 22:03:15] INFO: Retrieved 3 candidates.
+[2025-02-05 22:03:28] INFO: Retrieved 2 voters.
